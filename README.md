@@ -15,8 +15,11 @@ Downloads:
 <br>
 Windows 10 - v1.0.0
 <br>
+<br>
 <a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss/mtcss-installer.exe?authuser=2">Download</a>
 <br>
+<br>
 Android - v1.2.1
+<br>
 <br>
 <p>Soon</p>
