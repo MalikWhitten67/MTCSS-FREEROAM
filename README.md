@@ -19,7 +19,7 @@ Windows 10 - v1.0.0
 <a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss/mtcss-installer.exe?authuser=2">Download</a>
 <br>
 <br>
-Android - v1.2.1
+Android - v1.2.0
 <br>
 <br>
-<p>Soon</p>
+<a style="border:2px; padding:14px 28px; background-color:black"href="https://storage.cloud.google.com/mtcss-apk/mtcss.apk?authuser=2">Download</a>
