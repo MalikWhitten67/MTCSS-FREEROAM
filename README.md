@@ -12,5 +12,7 @@ version 1.2.1 on android has new ui changes removed the justified tabs as they a
 apply for jobs through our app aswell! - more stable then the old version and better organized, and also better color schemes with outlined buttons.
 
 Downloads:
+<br>
 Windows 10 - v1.0.0
+<br>
 <a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss/mtcss-installer.exe?authuser=2">Download</a>
