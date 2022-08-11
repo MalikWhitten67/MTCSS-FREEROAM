@@ -16,10 +16,10 @@ Downloads:
 Windows 10 - v1.2.0
 <br>
 <br>
-<a style="border:2px; padding:14px 28px; background-color:black" href="https://public.dm.files.1drv.com/y4mJitIgGEBP8PYlmU5dQhmQJTO0fffuN-wwe9-8L3JIiPqAZ2C4pUg0xPwixFiRQjRC7AdtNcGFBu-R6hBL53HJYqPGclfaA7uGlr7UNRNwcqIbjmoBMpQ-3fSihErhrUGGGdhneGqA-rmjNsZ0lJ9ub9NXMs3AtGWrQNsMY9NhcjYDEXncMNlQ1hBBPetCNVUEVE4Gpz-2d8B7L5IbXRSu3N9_bfD2BzVAHvCaK8dVCA">Download</a>
+<a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.googleapis.com/mtcss/mtcss_installer.exe">Download</a>
 <br>
 <br>
 Android - v1.2.0
 <br>
 <br>
-<a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss-apk/mtcss.apk?authuser=2">Download</a>
+<a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.googleapis.com/mtcss-apk/mtcss.apk">Download</a>
