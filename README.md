@@ -1,7 +1,7 @@
 Welcome to The MTCSS MC Repo
 
 Please understand that everything displayed in this repo is not free of use! apps developed by me cannot be modified.
-How to update? - simply delete the old version if on windows and reinstall the latest, android just install the latest version with android it overwrites old files!
+How to update? - simply delete the old version if on windows and reinstall the latest, android just install the latest version  and it will overwrites old files!
 
 Latest Version:
 Windows: 1.0.0
@@ -16,3 +16,8 @@ Downloads:
 Windows 10 - v1.0.0
 <br>
 <a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss/mtcss-installer.exe?authuser=2">Download</a>
+Downloads:
+<br>
+Android - v1.2.1
+<br>
+<p>Soon</p>
