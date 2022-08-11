@@ -13,10 +13,10 @@ apply for jobs through our app aswell! - more stable then the old version and be
 
 Downloads:
 <br>
-Windows 10 - v1.0.0
+Windows 10 - v1.2.0
 <br>
 <br>
-<a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss/mtcss-installer.exe?authuser=2">Download</a>
+<a style="border:2px; padding:14px 28px; background-color:black" href="https://storage.cloud.google.com/mtcss/mtcss_installer.exe?authuser=2">Download</a>
 <br>
 <br>
 Android - v1.2.0
